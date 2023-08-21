@@ -2,13 +2,30 @@
   "name": "mavericks",
   "displayName": "mavericks",
   "description": "A big wave inspired color theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickrotondo/mavericks-vscode.git"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "mavericks",
+    "ocean",
+    "wave",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#365063",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
