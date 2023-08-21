@@ -1,4 +1,4 @@
-# Mavericks for [Visual Studio Code](https://code.visualstudio.com/)
+# Mavericks Color Theme for [Visual Studio Code](https://code.visualstudio.com/)
 
 A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired by the ocean and big waves.
 
