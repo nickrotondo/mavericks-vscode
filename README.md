@@ -2,16 +2,11 @@
 
 A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired by the ocean and big waves.
 
-## Installing
+## Installation
 
-### Install using Git
+### Install using Command Palette
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/nickrotondo/mavericks-vscode.git ~/.vscode/extensions/theme-mavericks
-```
-
-### Activating theme
-
-Run Visual Studio Code. The Dracula Syntax Theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
+1. Go to `View` -> `Command Palette` or press `Ctrl`+`Shift`+`P`
+2. Then enter Install Extension
+3. Type `Mavericks`
+4. Select it or press Enter to install
