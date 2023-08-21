@@ -1,8 +1,9 @@
 {
-  "name": "mavericks",
-  "displayName": "mavericks",
+  "name": "theme-mavericks",
+  "displayName": "Mavericks",
   "description": "A big wave inspired color theme",
   "version": "0.1.0",
+  "publisher": "nickrotondo",
   "engines": {
     "vscode": "^1.81.0"
   },
