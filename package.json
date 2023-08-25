@@ -1,7 +1,7 @@
 {
   "name": "theme-mavericks",
   "displayName": "Mavericks",
-  "description": "A big wave inspired color theme",
+  "description": "A dark theme for VSCode inspired by the ocean and big waves.",
   "version": "0.2.0",
   "publisher": "nickrotondo",
   "engines": {
@@ -20,11 +20,13 @@
     "ocean",
     "wave",
     "theme",
-    "color-theme"
+    "color-theme",
+    "aqua",
+    "blue"
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#365063",
+    "color": "#365763",
     "theme": "dark"
   },
   "contributes": {
