@@ -2,7 +2,7 @@
   "name": "theme-mavericks",
   "displayName": "Mavericks",
   "description": "A big wave inspired color theme",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "nickrotondo",
   "engines": {
     "vscode": "^1.81.0"
