@@ -6,7 +6,7 @@ A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired b
 
 ### Install using Command Palette
 
-1. Go to `View` -> `Command Palette` or press `Ctrl`+`Shift`+`P`
+1. Go to `View` -> `Command Palette` or press `⌘`+`Shift`+`P`
 2. Then enter Install Extension
 3. Type `Mavericks`
 4. Select it or press Enter to install
